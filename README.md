@@ -50,7 +50,7 @@ A full-stack food ordering application with Spring Boot backend and React fronte
 ## Repository
 
 This project is hosted on GitHub:
-**https://github.com/Om156/tastytown**
+**https://github.com/Om156/tasty-town-app**
 
 ## Pushing Updates to GitHub
 
